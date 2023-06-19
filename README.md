@@ -1,6 +1,6 @@
 ```markdown
 # A redirect to my mastodon :)
-yes, that's it haha
+yes, that's it hahaha
 
 
 
